@@ -962,3 +962,8 @@
   contact: https://github.com/davzucky/devcontainers-features-wolfi/issues
   repository: https://github.com/davzucky/devcontainers-features-wolfi
   ociReference: ghcr.io/davzucky/devcontainers-features-wolfi  
+- name: Reference Implementation Templates by UNRULYEON
+  maintainer: Amar Kisoensingh
+  contact: https://github.com/UNRULYEON/devcontainer-templates/issues
+  repository: https://github.com/UNRULYEON/devcontainer-templates
+  ociReference: ghcr.io/unrulyeon/devcontainer-templates  
